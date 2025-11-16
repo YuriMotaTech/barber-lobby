@@ -1,9 +1,11 @@
 {
   "devDependencies": {
     "prettier": "^3.6.2",
-    "prettier-plugin-tailwindcss": "^0.7.1"
+    "prettier-plugin-tailwindcss": "^0.7.1",
+    "tsx": "^4.20.6"
   },
   "dependencies": {
+    "@prisma/client": "^6.19.0",
     "dotenv": "^17.2.3",
     "prisma": "^6.18.0"
   }
